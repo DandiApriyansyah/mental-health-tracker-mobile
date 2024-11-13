@@ -17,6 +17,7 @@ class MyHomePage extends StatelessWidget {
     MyHomePage({super.key});
 
     @override
+
     Widget build(BuildContext context) {
     // Scaffold menyediakan struktur dasar halaman dengan AppBar dan body.
     return Scaffold(
